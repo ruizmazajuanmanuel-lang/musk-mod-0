@@ -1,3 +1,5 @@
+/*Cambiamos el código por uno más completo*/
+
 const readline = require("readline-sync");
 
 const usuario = readline.question("Introduce una lista de elementos: ");
